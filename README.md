@@ -1,0 +1,3 @@
+# React Native Unlinked Native Module Bug
+
+This repository demonstrates a common error in React Native projects involving unlinked native modules.  The `bug.js` file shows how attempting to use a native module that isn't correctly linked results in a runtime error. The `bugSolution.js` file provides a solution for linking the native module.  This error often manifests as a module being undefined or a related error message.
